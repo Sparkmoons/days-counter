@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>Пример вывода программы</h1>
-  <img width="494" height="344" src="https://github.com/Sparkmoons/days-counter/blob/main/Example.PNG">
+  <img src="https://github.com/Sparkmoons/days-counter/blob/main/Example.PNG">
 </div>
 
 [main.go](https://github.com/Sparkmoons/days-counter/blob/main/code/main.go)
